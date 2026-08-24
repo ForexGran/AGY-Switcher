@@ -4,7 +4,7 @@
   <p><b>A native, lightweight macOS Menu Bar utility for Power Users to seamlessly hot-swap between multiple Antigravity AI accounts.</b></p>
   
   <p>
-    <a href="https://github.com/yourusername/AGY-Switcher/releases"><img src="https://img.shields.io/badge/Platform-macOS-black?style=for-the-badge&logo=apple" alt="macOS"></a>
+    <a href="https://github.com/ForexGran/AGY-Switcher/releases"><img src="https://img.shields.io/badge/Platform-macOS-black?style=for-the-badge&logo=apple" alt="macOS"></a>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" alt="Python"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License"></a>
   </p>
